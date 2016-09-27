@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "prehexify": "rimraf data/SivaNodes.json",	
+    "prehexify": "rimraf data/SivaNodes.json",
     "hexify": "node lib/convertNodeNamesToHex"
   },
   "repository": {
@@ -21,7 +21,8 @@
   "dependencies": {
     "csv-write-stream": "^2.0.0",
     "mcrypt": "^0.1.11",
-    "node-sheets": "^0.3.1"
+    "node-sheets": "^0.3.1",
+    "string-hexer": "0.0.2"
   },
   "devDependencies": {
     "rimraf": "^2.5.4"
