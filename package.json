@@ -4,7 +4,8 @@
   "description": "https://www.bungie.net/en/net/sim",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+	"hexify": "node lib/convertNodeNamesToHex"
   },
   "repository": {
     "type": "git",
