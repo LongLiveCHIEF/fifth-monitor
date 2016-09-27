@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LongLiveCHIEF/fifth-monitor.png?label=ready&title=Ready)](https://waffle.io/LongLiveCHIEF/fifth-monitor)
 # Destiny Owl Sector ARG
 
 The latest update to [owlsector.bungie.net]() includes a link that proceeds to give you a data transmission.
